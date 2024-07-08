@@ -1,0 +1,26 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Custom AlertDialog style -->
+    <style name="CustomAlertDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:background">@drawable/dialog_background</item>
+    </style>
+</resources>
+
+
+    <!--<resources>-->
+<!--    <style name="CustomAlertDialog" parent="Theme.AppCompat.Light.Dialog.Alert">-->
+<!--        <item name="android:windowBackground">@android:color/white</item>-->
+<!--        <item name="android:layout_gravity">center</item>-->
+<!--        <item name="android:layout_margin">16dp</item>-->
+<!--        <item name="android:backgroundDimEnabled">true</item>-->
+<!--        <item name="android:windowMinWidthMajor">80%</item>-->
+<!--        <item name="android:windowMinWidthMinor">80%</item>-->
+<!--    </style>-->
+<!--</resources>-->
